@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/titleScreen.unity
+    guid: 449a8ac0c87446e4794e3952ff56ad4d
+  - enabled: 1
+    path: Assets/Scenes/mapTraining.unity
+    guid: 82931d5919eb31d47a6373d58508307a
+  - enabled: 0
+    path: Assets/Scenes/mapTutorial.unity
+    guid: b53ac23df8b7a2a49b7a7b919942aee1
+  - enabled: 1
+    path: Assets/Scenes/mapScreen.unity
+    guid: ed0248cffd3806b4092a8f2273cf5f72
+  - enabled: 1
+    path: Assets/Scenes/tutorialLevel.unity
+    guid: 26f93362ec52e26489a94633d0372a4f
+  - enabled: 1
+    path: Assets/Scenes/mapScreen 1.unity
+    guid: 9235f85ccc156034e94a5a6808e26b53
+  - enabled: 1
+    path: Assets/Scenes/islandOne.unity
+    guid: fa905192c3bc6394ab2d3fa18c89484b
+  - enabled: 0
+    path: Assets/Scenes/mapScreen2.unity
+    guid: f10881a3cfc1c9a45b5f671c4fa3bece
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/victoryScreen.unity
+    guid: 9ba0859c87282294689063fbf1393a2c
+  - enabled: 1
+    path: Assets/Scenes/gameOverKraken.unity
+    guid: b075307f539f67441aa2a404459ec262
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: de281f63c3230204aab2256605e4577a
+  m_configObjects: {}
